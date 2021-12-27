@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://RemizJazzCode.github.io/sitemap.xml

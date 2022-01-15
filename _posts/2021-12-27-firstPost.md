@@ -1,5 +1,5 @@
 ---
-title:  "블로그 포스팅하는 방법"
+title:  "블로그 포스팅하는 방법."
 excerpt: "직접 블로그 포스팅을 Git을 통해 한번 해보자"
 
 categories:
